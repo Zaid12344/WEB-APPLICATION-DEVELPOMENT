@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="basic_calculator/basic_calculator.csproj" />
+  <Project Path="grade_calculator/grade_calculator.csproj" />
+  <Project Path="guess_my_number/guess_my_number.csproj" />
+</Solution>
