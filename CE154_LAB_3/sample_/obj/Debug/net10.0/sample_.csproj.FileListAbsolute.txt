@@ -1,0 +1,14 @@
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\bin\Debug\net10.0\sample_.exe
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\bin\Debug\net10.0\sample_.deps.json
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\bin\Debug\net10.0\sample_.runtimeconfig.json
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\bin\Debug\net10.0\sample_.dll
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\bin\Debug\net10.0\sample_.pdb
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\obj\Debug\net10.0\sample_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\obj\Debug\net10.0\sample_.AssemblyInfoInputs.cache
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\obj\Debug\net10.0\sample_.AssemblyInfo.cs
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\obj\Debug\net10.0\sample_.csproj.CoreCompileInputs.cache
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\obj\Debug\net10.0\sample_.dll
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\obj\Debug\net10.0\refint\sample_.dll
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\obj\Debug\net10.0\sample_.pdb
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\obj\Debug\net10.0\sample_.genruntimeconfig.cache
+C:\Users\zaid\Documents\WAD\CE154_LAB_3\sample_\obj\Debug\net10.0\ref\sample_.dll

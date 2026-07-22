@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="basic_calculator_delegate/basic_calculator_delegate.csproj" />
+  <Project Path="sample_/sample_.csproj" />
+  <Project Path="student_record_analyzer/student_record_analyzer.csproj" />
+</Solution>
